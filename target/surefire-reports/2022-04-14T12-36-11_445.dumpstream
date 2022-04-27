@@ -1,0 +1,5 @@
+# Created at 2022-04-14T12:36:34.915
+Boot Manifest-JAR contains absolute paths in classpath 'E:\javapgm\salesforce\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
